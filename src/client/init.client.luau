@@ -1,1 +1,2 @@
-print("Hello world, from client!")
+local heheboi = 1
+local two = heheboi + heheboi
